@@ -73,4 +73,7 @@ footer {
   min-width: 240px;
   text-align: center;
 }
+.map-button:hover {
+  background-color: #135ecf;
+}
 
