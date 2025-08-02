@@ -61,3 +61,16 @@ footer {
     max-width: 90vw;
   }
 }
+.map-button {
+  display: inline-block;
+  font-size: 16px;
+  color: white;
+  background-color: #1677ff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  white-space: nowrap;
+  min-width: 240px;
+  text-align: center;
+}
+
